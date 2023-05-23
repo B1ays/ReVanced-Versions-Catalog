@@ -1,0 +1,45 @@
+[
+  {
+    "Apk name": "ReVanced.18.16.39.Root.apk",
+    "isRootVersion": true,
+    "Short description": "Root/magisk version",
+    "Apk link": "https://github.com/B1ays/ReVanced-Versions-Catalog/releases/download/YouTube_18.16.39_2.171.4/ReVanced.18.16.39.Root.apk",
+    "Original apk link": "https://github.com/B1ays/ReVanced-Versions-Catalog/releases/download/YouTube_18.16.39_2.171.4/YouTube.18.16.39.apk"
+  },
+  {
+    "Apk name": "OG.+Black.+YouTube_v18.16.39+.2.171.4.apk\n",
+    "isRootVersion": false,
+    "Short description": "Original icon, black theme.",
+    "Apk link": "https://github.com/B1ays/ReVanced-Versions-Catalog/releases/download/YouTube_18.16.39_2.171.4/OG.+Black.+YouTube_v18.16.39+.2.171.4.apk"
+  },
+  {
+    "Apk name": "OG.+Dark.+YouTube_v18.16.39+.2.171.4.apk",
+    "isRootVersion": false,
+    "Short description": "Original icon, dark theme.",
+    "Apk link": "https://github.com/B1ays/ReVanced-Versions-Catalog/releases/download/YouTube_18.16.39_2.171.4/OG.+Dark.+YouTube_v18.16.39+.2.171.4.apk"
+  },
+  {
+    "Apk name": "OG.+Monet.+YouTube_v18.16.39+.2.171.4.apk",
+    "isRootVersion": false,
+    "Short description": "Original icon, monet theme",
+    "Apk link": "https://github.com/B1ays/ReVanced-Versions-Catalog/releases/download/YouTube_18.16.39_2.171.4/OG.+Monet.+YouTube_v18.16.39+.2.171.4.apk"
+  },
+  {
+    "Apk name": "RV.+Black.+YouTube_v18.16.39+.2.171.4.apk",
+    "isRootVersion": false,
+    "Short description": "ReVanced icon, black theme.",
+    "Apk link": "https://github.com/B1ays/ReVanced-Versions-Catalog/releases/download/YouTube_18.16.39_2.171.4/RV.+Black.+YouTube_v18.16.39+.2.171.4.apk"
+  },
+  {
+    "Apk name": "RV.+Dark.+YouTube_v18.16.39+.2.171.4.apk",
+    "isRootVersion": false,
+    "Short description": "ReVanced icon, dark theme.",
+    "Apk link": "https://github.com/B1ays/ReVanced-Versions-Catalog/releases/download/YouTube_18.16.39_2.171.4/RV.+Dark.+YouTube_v18.16.39+.2.171.4.apk"
+  },
+  {
+    "Apk name": "RV.+Monet.+YouTube_v18.16.39+.2.171.4.apk",
+    "isRootVersion": false,
+    "Short description": "ReVanced icon, monet theme.",
+    "Apk link": "https://github.com/B1ays/ReVanced-Versions-Catalog/releases/download/YouTube_18.16.39_2.171.4/RV.+Monet.+YouTube_v18.16.39+.2.171.4.apk"
+  }
+]
