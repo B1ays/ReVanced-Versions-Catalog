@@ -1,1 +1,21 @@
-[{"Apk name":"YouTube Music ReVanced Root.apk","isRootVersion":true,"Short description":"Root/magisk version","Apk link":"https://github.com/B1ays/ReVanced-Versions-Catalog/releases/download/Music_6.03.51_2.173.10/YouTube.Music.ReVanced.Root.apk","Original apk link":"https://github.com/B1ays/ReVanced-Versions-Catalog/releases/download/Music_6.03.51_2.173.10/YouTube.Music.6.03.52.arm.apk"},{"Apk name":"[RV]+YT+Music_v6.03.51+[2.173.10].apk","Short description":"ReVanced icon","Apk link":"https://github.com/B1ays/ReVanced-Versions-Catalog/releases/download/Music_6.03.51_2.173.10/RV.+YT+Music_v6.03.51+.2.173.10.apk"},{"Apk name":"[OG]+YT+Music_v6.03.51+[2.173.10].apk","Short description":"Original icon","Apk link":"https://github.com/B1ays/ReVanced-Versions-Catalog/releases/download/Music_6.03.51_2.173.10/OG.+YT+Music_v6.03.51+.2.173.10.apk"}]
+[
+  {
+    "Apk name": "YouTube Music ReVanced Root.apk",
+    "isRootVersion": true,
+    "Short description": "Root/magisk version",
+    "Apk link": "https://github.com/B1ays/ReVanced-Versions-Catalog/releases/download/Music_6.03.51_2.173.10/YouTube.Music.ReVanced.Root.apk",
+    "Original apk link": "https://github.com/B1ays/ReVanced-Versions-Catalog/releases/download/Music_6.03.51_2.173.10/YouTube.Music.6.03.52.arm.apk"
+  },
+  {
+    "Apk name": "[RV]+YT+Music_v6.03.51+[2.173.10].apk",
+    "isRootVersion": false,
+    "Short description": "ReVanced icon",
+    "Apk link": "https://github.com/B1ays/ReVanced-Versions-Catalog/releases/download/Music_6.03.51_2.173.10/RV.+YT+Music_v6.03.51+.2.173.10.apk"
+  },
+  {
+    "Apk name": "[OG]+YT+Music_v6.03.51+[2.173.10].apk",
+    "isRootVersion": false,
+    "Short description": "Original icon",
+    "Apk link": "https://github.com/B1ays/ReVanced-Versions-Catalog/releases/download/Music_6.03.51_2.173.10/OG.+YT+Music_v6.03.51+.2.173.10.apk"
+  }
+]
