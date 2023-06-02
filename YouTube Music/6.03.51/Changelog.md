@@ -1,0 +1,2 @@
+- feat(music/hide-new-playlist-button): change patch name [inotia00/ReVanced_Extended#983](https://github.com/inotia00/ReVanced_Extended/issues/983 "inotia00/ReVanced_Extended#983")
+- feat(music/translations): update translation `Chinese Simplified`
