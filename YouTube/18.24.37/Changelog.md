@@ -1,1 +1,75 @@
- ## === No changelog ===
+## Feat
+- feat(youtube): add add-splash-animation patch
+- feat(youtube): add enable-compact-controls-overlay patch
+- feat(youtube): add enable-debug-logging patch
+- feat(youtube): add enable-new-splash-animation patch inotia00/ReVanced_Extended#869
+- feat(youtube): add enable-new-thumbnail-preview patch
+- feat(youtube): add force-opus-codec patch
+- feat(youtube): add hide-description-components patch
+- feat(youtube): add hide-feed-flyout-panel patch inotia00/ReVanced_Extended#925 Reddit
+- feat(youtube): add hide-speed-overlay patch Reddit
+- feat(youtube): add hide-suggestions-shelf patch inotia00/ReVanced_Extended#575 inotia00/ReVanced_Extended#598 inotia00/ReVanced_Extended#613
+- feat(youtube): add hide-trending-searches patch
+- feat(youtube): add language-switch patch inotia00/ReVanced_Extended#661
+- feat(youtube): improve patching speed
+- feat(youtube): remove custom-branding-icon-afn-blue patch
+- feat(youtube): remove custom-branding-icon-afn-red patch
+- feat(youtube): remove hide-breaking-news-shelf patch
+- feat(youtube): remove hide-search-terms patch
+- feat(youtube): remove hide-stories patch Google Help
+- feat(youtube/custom-video-speed): change custom video speeds inside app settings
+- feat(youtube/custom-video-speed): change preference summary when a new player flyout is detected
+- feat(youtube/default-video-quality): apply video-cpn-hook instead of video-id-hook
+- feat(youtube/default-video-speed): apply method improvement
+- feat(youtube/hide-button-container): add Hide rewards button settings
+- feat(youtube/hide-button-container): rewrite codes
+- feat(youtube/hide-general-ads): Hide merchandise shelf now hides merchandise shelf in video descriptions
+- feat(youtube/hide-layout-components): add Hide gray description settings inotia00/ReVanced_Extended#455
+- feat(youtube/hide-layout-components): remove Hide browse store button settings
+- feat(youtube/hide-layout-components): separate hiding expandable chips and chapters inotia00/ReVanced_Extended#351 inotia00/ReVanced_Extended#628
+- feat(youtube/hide-layout-components): Hide feed surveys now hides the following banner - 'Recommendations not quite right?' Image
+- feat(youtube/hide-shorts-component): hide likes, dislikes and share buttons in shorts player inotia00/ReVanced_Extended#656
+- feat(youtube/hide-shorts-component): hide toolbar in shorts player inotia00/ReVanced_Extended#151
+- feat(youtube/hide-video-ads): change to abstract patch
+- feat(youtube/hook-player-button): rewrite codes
+- feat(youtube/litho-filter): change to shared patch
+- feat(youtube/litho-filter): return earlier when possible
+- feat(youtube/overlay-buttons): change to an appropriate description
+- feat(youtube/overlay-buttons): disable autoplay by tapping and holding the always repeat button inotia00/ReVanced_Extended#707
+- feat(youtube/overlay-buttons): launch external-downloader by clicking the offline download button in the video action bar inotia00/ReVanced_Extended#7
+- feat(youtube/overlay-buttons): remove Always auto repeat toggle from settings
+- feat(youtube/overlay-buttons): remove PowerTube from default downloaders list and add ytdlnis to default downloaders list inotia00/ReVanced_Extended#352
+- feat(youtube/overlay-buttons): Hook download button preference is shown only in the available version
+- feat(youtube/return-youtube-dislike): separate ryd for shorts and ryd for general video
+- feat(youtube/settings): edit text dialog - add reset button
+- feat(youtube/settings): edit text dialog - instead of comma-separated when entering custom filters, separate them with lines
+- feat(youtube/settings): moved some settings to the appropriate category
+- feat(youtube/settings): sort alphabetically inotia00/ReVanced_Extended#242
+- feat(youtube/spoof-app-version): add custom version input dialog
+- feat(youtube/spoof-app-version): add 18.20.39 to version list
+- feat(youtube/spoof-app-version): remove 17.06.35 from version list
+- feat(youtube/spoof-app-version): set default value to 18.20.39
+- feat(youtube/spoof-app-version): change to abstract patch
+- feat(youtube/spoof-player-parameters): change patch name protobuf-spoof > spoof-player-parameters
+- feat(youtube/spoof-player-parameters): remove from patch list and include in microg-support patch
+- feat(youtube/spoof-player-parameters): split into shorts parameter and incognito mode parameter
+- feat(youtube/default-video-quality): Enable save video quality not working in new layout
+- feat(youtube/default-video-speed): Enable save video speed not working in new layout
+- feat(youtube/translations): update translation
+## Fix
+- fix(youtube): separate hide-general-ads to hide-layout-components patch
+- fix(youtube/custom-video-speed): not working in new player flyout panel
+- fix(youtube/enable-old-quality-layout): not working in new player flyout panel inotia00/ReVanced_Extended#377 inotia00/ReVanced_Extended#627
+- fix(youtube/integrations): playback in embedded video's context not set
+- fix(youtube/litho-filter): don't include all Litho patches, when not included
+- fix(youtube/litho-filter): Incorrect dex syntax
+- fix(youtube/overlay-buttons): sometimes NullPointerException occurs when changing external downloader
+- fix(youtube/settings): add a fallback action when the target preference is not found or the cast fails because the patch is excluded
+- fix(youtube/sponsorblock): throw an exception when scrubbing thru a paused video
+- fix(youtube/sponsorblock): replaceMeWith strings not replacing properly
+- fix(youtube/sponsorblock): vote button and new segment button still showing when end screen overlay appears inotia00/ReVanced_Extended#398
+## Refactor
+- refactor(youtube): move the patch to the correct path
+- refactor(youtube): renamed some patches and description inotia00/ReVanced_Extended#1026
+- refactor(youtube/integrations): remove dummy class
+- refactor(youtube/integrations): rewrite codes
