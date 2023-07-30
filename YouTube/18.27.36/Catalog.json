@@ -1,0 +1,54 @@
+[
+  {
+    "Apk name": "[BI]ReVanced 18.27.36 Root",
+    "isRootVersion": true,
+    "Short description": "Root/magisk version with Blays icon",
+    "Apk link": "https://github.com/B1ays/ReVanced-Versions-Catalog/releases/download/YouTube_18.27.36_2.186.8/BI.ReVanced.18.27.36.Root.apk",
+    "Original apk link": "https://github.com/B1ays/ReVanced-Versions-Catalog/releases/download/YouTube_18.27.36_2.186.8/YouTube.apk"
+  },
+  {
+    "Apk name": "[MMT]ReVanced 18.27.36 Root",
+    "isRootVersion": true,
+    "Short description": "Root/magisk version with MMT icon",
+    "Apk link": "https://github.com/B1ays/ReVanced-Versions-Catalog/releases/download/YouTube_18.27.36_2.186.8/MMT.ReVanced.18.27.36.Root.apk",
+    "Original apk link": "https://github.com/B1ays/ReVanced-Versions-Catalog/releases/download/YouTube_18.27.36_2.186.8/YouTube.apk"
+  },
+  {
+    "Apk name": "[RV]ReVanced 18.27.36 Root",
+    "isRootVersion": true,
+    "Short description": "Root/magisk version with Revancify icon",
+    "Apk link": "https://github.com/B1ays/ReVanced-Versions-Catalog/releases/download/YouTube_18.27.36_2.186.8/RV.ReVanced.18.27.36.Root.apk",
+    "Original apk link": "https://github.com/B1ays/ReVanced-Versions-Catalog/releases/download/YouTube_18.27.36_2.186.8/YouTube.apk"
+  },
+  {
+    "Apk name": "[OG]ReVanced 18.27.36 Root",
+    "isRootVersion": true,
+    "Short description": "Root/magisk version with original icon",
+    "Apk link": "https://github.com/B1ays/ReVanced-Versions-Catalog/releases/download/YouTube_18.27.36_2.186.8/OG.ReVanced.18.27.36.Root.apk",
+    "Original apk link": "https://github.com/B1ays/ReVanced-Versions-Catalog/releases/download/YouTube_18.27.36_2.186.8/YouTube.apk"
+  },
+  {
+    "Apk name": "[BI]ReVanced 18.27.36 nonRoot",
+    "isRootVersion": false,
+    "Short description": "Blays icon, black theme.",
+    "Apk link": "https://github.com/B1ays/ReVanced-Versions-Catalog/releases/download/YouTube_18.27.36_2.186.8/BI.ReVanced.18.27.36.nonRoot.apk"
+  },
+  {
+    "Apk name": "[MMT]ReVanced 18.27.36 nonRoot",
+    "isRootVersion": false,
+    "Short description": "MMT icon, black theme.",
+    "Apk link": "https://github.com/B1ays/ReVanced-Versions-Catalog/releases/download/YouTube_18.27.36_2.186.8/MMT.ReVanced.18.27.36.nonRoot.apk"
+  },
+  {
+    "Apk name": "[RV]ReVanced 18.27.36 nonRoot",
+    "isRootVersion": false,
+    "Short description": "Revancify icon, black theme.",
+    "Apk link": "https://github.com/B1ays/ReVanced-Versions-Catalog/releases/download/YouTube_18.27.36_2.186.8/RV.ReVanced.18.27.36.nonRoot.apk"
+  },
+  {
+    "Apk name": "[OG]ReVanced 18.27.36 nonRoot",
+    "isRootVersion": false,
+    "Short description": "Original icon, black theme.",
+    "Apk link": "https://github.com/B1ays/ReVanced-Versions-Catalog/releases/download/YouTube_18.27.36_2.186.8/OG.ReVanced.18.27.36.nonRoot.apk"
+  }
+]
