@@ -1,5 +1,12 @@
 [
   {
+    "Version": "6.15.51",
+	"Patches version": "2.188.0",
+    "Build date": "16.08.23",
+    "Changelog link": "https://github.com/B1ays/ReVanced-Versions-Catalog/raw/main/YouTube%20Music/6.15.51/Changelog.md",
+    "Versions list": "https://github.com/B1ays/ReVanced-Versions-Catalog/raw/main/YouTube%20Music/6.15.51/Catalog.json"
+  },
+  {
     "Version": "6.12.53",
     "Build date": "30.07.23",
     "Changelog link": "https://github.com/B1ays/ReVanced-Versions-Catalog/raw/main/YouTube%20Music/6.12.53/Changelog.md",
