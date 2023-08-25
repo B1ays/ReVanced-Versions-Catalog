@@ -1,5 +1,12 @@
 [
   {
+    "Version": "18.32.39",
+    "Patches version": "2.188.2",
+    "Build date": "25.08.23",
+    "Changelog link": "https://github.com/B1ays/ReVanced-Versions-Catalog/raw/main/YouTube/18.32.39/Changelog.md",
+    "Versions list": "https://raw.githubusercontent.com/B1ays/ReVanced-Versions-Catalog/main/YouTube/18.32.39/Catalog.json"
+  },
+  {
     "Version": "18.31.40",
     "Patches version": "2.188.0",
     "Build date": "16.08.23",
