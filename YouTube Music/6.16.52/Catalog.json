@@ -1,0 +1,28 @@
+[
+  {
+    "Apk name": "[BI]ReVanced 6.16.52 Root",
+    "isRootVersion": true,
+    "Short description": "Root/magisk version with Blays icon",
+    "Apk link": "https://github.com/B1ays/ReVanced-Versions-Catalog/releases/download/Music_6.16.52_2.189.0/BL.Root.youtube-music-revanced_6.16.52.apk",
+    "Original apk link": "https://github.com/B1ays/ReVanced-Versions-Catalog/releases/download/Music_6.16.52_2.189.0/Music.apk"
+  },
+  {
+    "Apk name": "[OG]ReVanced 6.16.52 Root",
+    "isRootVersion": true,
+    "Short description": "Root/magisk version with original icon",
+    "Apk link": "https://github.com/B1ays/ReVanced-Versions-Catalog/releases/download/Music_6.16.52_2.189.0/OG.Root.youtube-music-revanced_6.16.52.apk",
+    "Original apk link": "https://github.com/B1ays/ReVanced-Versions-Catalog/releases/download/Music_6.16.52_2.189.0/Music.apk"
+  },
+  {
+    "Apk name": "[BI]ReVanced 6.16.52 nonRoot",
+    "isRootVersion": false,
+    "Short description": "Blays icon, black theme.",
+    "Apk link": "https://github.com/B1ays/ReVanced-Versions-Catalog/releases/download/Music_6.16.52_2.189.0/BL.Non-Root.youtube-music-revanced_6.16.52.apk"
+  },
+  {
+    "Apk name": "[OG]ReVanced 6.16.52 nonRoot",
+    "isRootVersion": false,
+    "Short description": "Original icon, black theme.",
+    "Apk link": "https://github.com/B1ays/ReVanced-Versions-Catalog/releases/download/Music_6.16.52_2.189.0/OG.Non-Root.youtube-music-revanced_6.16.52.apk"
+  }
+]
