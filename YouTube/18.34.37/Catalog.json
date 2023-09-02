@@ -1,0 +1,54 @@
+[
+  {
+    "Apk name": "[BI]ReVanced 18.34.37 Root",
+    "isRootVersion": true,
+    "Short description": "Root/magisk version with Blays icon",
+    "Apk link": "https://github.com/B1ays/ReVanced-Versions-Catalog/releases/download/YouTube_18.34.37_2.190.0/BL.Root.youtube-revanced_v18.34.37.apk",
+    "Original apk link": "https://github.com/B1ays/ReVanced-Versions-Catalog/releases/download/YouTube_18.34.37_2.190.0/YouTube.apk"
+  },
+  {
+    "Apk name": "[MMT]ReVanced 18.34.37 Root",
+    "isRootVersion": true,
+    "Short description": "Root/magisk version with MMT icon",
+    "Apk link": "https://github.com/B1ays/ReVanced-Versions-Catalog/releases/download/YouTube_18.34.37_2.190.0/MMT.Root.youtube-revanced_v18.34.37.apk",
+    "Original apk link": "https://github.com/B1ays/ReVanced-Versions-Catalog/releases/download/YouTube_18.34.37_2.190.0/YouTube.apk"
+  },
+  {
+    "Apk name": "[RV]ReVanced 18.34.37 Root",
+    "isRootVersion": true,
+    "Short description": "Root/magisk version with Revancify icon",
+    "Apk link": "https://github.com/B1ays/ReVanced-Versions-Catalog/releases/download/YouTube_18.34.37_2.190.0/RV.Root.youtube-revanced_v18.34.37.apk",
+    "Original apk link": "https://github.com/B1ays/ReVanced-Versions-Catalog/releases/download/YouTube_18.34.37_2.190.0/YouTube.apk"
+  },
+  {
+    "Apk name": "[OG]ReVanced 18.34.37 Root",
+    "isRootVersion": true,
+    "Short description": "Root/magisk version with original icon",
+    "Apk link": "https://github.com/B1ays/ReVanced-Versions-Catalog/releases/download/YouTube_18.34.37_2.190.0/OG.Root.youtube-revanced_v18.34.37.apk",
+    "Original apk link": "https://github.com/B1ays/ReVanced-Versions-Catalog/releases/download/YouTube_18.34.37_2.190.0/YouTube.apk"
+  },
+  {
+    "Apk name": "[BI]ReVanced 18.34.37 nonRoot",
+    "isRootVersion": false,
+    "Short description": "Blays icon, black theme.",
+    "Apk link": "https://github.com/B1ays/ReVanced-Versions-Catalog/releases/download/YouTube_18.34.37_2.190.0/BL.Non-Root.youtube-revanced_v18.34.37apk"
+  },
+  {
+    "Apk name": "[MMT]ReVanced 18.34.37 nonRoot",
+    "isRootVersion": false,
+    "Short description": "MMT icon, black theme.",
+    "Apk link": "https://github.com/B1ays/ReVanced-Versions-Catalog/releases/download/YouTube_18.34.37_2.190.0/MMT.Non-Root.youtube-revanced_v18.34.37.apk"
+  },
+  {
+    "Apk name": "[RV]ReVanced 18.34.37 nonRoot",
+    "isRootVersion": false,
+    "Short description": "Revancify icon, black theme.",
+    "Apk link": "https://github.com/B1ays/ReVanced-Versions-Catalog/releases/download/YouTube_18.34.37_2.190.0/RV.Non-Root.youtube-revanced_v18.34.37apk"
+  },
+  {
+    "Apk name": "[OG]ReVanced 18.34.37 nonRoot",
+    "isRootVersion": false,
+    "Short description": "Original icon, black theme.",
+    "Apk link": "https://github.com/B1ays/ReVanced-Versions-Catalog/releases/download/YouTube_18.34.37_2.190.0/OG.Non-Root.youtube-revanced_v18.34.37.apk"
+  }
+]
