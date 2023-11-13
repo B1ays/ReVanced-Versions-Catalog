@@ -1,10 +1,17 @@
 [
   {
-    "Version": "6.23.54",
-	"Patches version": "2.195.1",
-    "Build date": "22.10.23",
-    "Changelog link": "https://github.com/B1ays/ReVanced-Versions-Catalog/raw/main/YouTube%20Music/6.23.54/Changelog.md",
-    "Versions list": "https://raw.githubusercontent.com/B1ays/ReVanced-Versions-Catalog/main/YouTube%20Music/6.23.54/Catalog.json"
+    "Version": "6.27.53",
+	"Patches version": "2.196.1",
+    "Build date": "13.11.23",
+    "Changelog link": "https://github.com/B1ays/ReVanced-Versions-Catalog/raw/main/YouTube%20Music/6.27.53/Changelog.md",
+    "Versions list": "https://raw.githubusercontent.com/B1ays/ReVanced-Versions-Catalog/main/YouTube%20Music/6.27.53/Catalog.json"
+  },
+  {
+    "Version": "6.21.52",
+	"Patches version": "2.193.18",
+    "Build date": "20.10.23",
+    "Changelog link": "https://github.com/B1ays/ReVanced-Versions-Catalog/raw/main/YouTube%20Music/6.21.52/Changelog.md",
+    "Versions list": "https://raw.githubusercontent.com/B1ays/ReVanced-Versions-Catalog/main/YouTube%20Music/6.21.52/Catalog.json"
   },
   {
     "Version": "6.18.52",
