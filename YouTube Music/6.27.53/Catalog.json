@@ -3,26 +3,26 @@
     "Apk name": "[BI]ReVanced Black 6.27.53 Root",
     "isRootVersion": true,
     "Short description": "Root/magisk version with Black theme and Blays icon",
-    "Apk link": "https://github.com/B1ays/ReVanced-Versions-Catalog/releases/download/Music_6.27.53_2.196.1/BL.Black.Root.youtube-music-revanced_6.27.53.apk",
+    "Apk link": "https://github.com/B1ays/ReVanced-Versions-Catalog/releases/download/Music_6.27.53_2.196.1/BL.Black.Root.youtube-music-revanced_v6.27.53.apk",
     "Original apk link": "https://github.com/B1ays/ReVanced-Versions-Catalog/releases/download/Music_6.27.53_2.196.1/Music.apk"
   },
   {
     "Apk name": "[OG]ReVanced Black 6.27.53 Root",
     "isRootVersion": true,
     "Short description": "Root/magisk version with Black theme and original icon",
-    "Apk link": "https://github.com/B1ays/ReVanced-Versions-Catalog/releases/download/Music_6.27.53_2.196.1/OG.Black.Root.youtube-music-revanced_6.27.53.apk",
+    "Apk link": "https://github.com/B1ays/ReVanced-Versions-Catalog/releases/download/Music_6.27.53_2.196.1/OG.Black.Root.youtube-music-revanced_v6.27.53.apk",
     "Original apk link": "https://github.com/B1ays/ReVanced-Versions-Catalog/releases/download/Music_6.27.53_2.196.1/Music.apk"
   },
   {
     "Apk name": "[BI]ReVanced Black 6.27.53 nonRoot",
     "isRootVersion": false,
     "Short description": "Blays icon, Black theme.",
-    "Apk link": "https://github.com/B1ays/ReVanced-Versions-Catalog/releases/download/Music_6.27.53_2.196.1/BL.Black.Non-Root.youtube-music-revanced_6.27.53.apk"
+    "Apk link": "https://github.com/B1ays/ReVanced-Versions-Catalog/releases/download/Music_6.27.53_2.196.1/BL.Black.Non-Root.youtube-music-revanced_v6.27.53.apk"
   },
   {
     "Apk name": "[OG]ReVanced Black 6.27.53 nonRoot",
     "isRootVersion": false,
     "Short description": "Original icon, Black theme.",
-    "Apk link": "https://github.com/B1ays/ReVanced-Versions-Catalog/releases/download/Music_6.27.53_2.196.1/OG.Black.Non-Root.youtube-music-revanced_6.27.53.apk"
+    "Apk link": "https://github.com/B1ays/ReVanced-Versions-Catalog/releases/download/Music_6.27.53_2.196.1/OG.Black.Non-Root.youtube-music-revanced_v6.27.53.apk"
   }
 ]
