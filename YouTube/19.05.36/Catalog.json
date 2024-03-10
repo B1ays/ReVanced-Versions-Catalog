@@ -1,0 +1,106 @@
+[
+  {
+    "Apk name": "[BI]ReVanced Black 19.05.36 Root",
+    "isRootVersion": true,
+    "Short description": "Magisk version with Blays icon and black theme",
+    "Apk link": "https://github.com/B1ays/ReVanced-Versions-Catalog/releases/download/YouTube_19.05.36_2.220.9a4/BL.Black.Root.youtube-revanced_v19.05.36.apk",
+    "Original apk link": "https://github.com/B1ays/ReVanced-Versions-Catalog/releases/download/YouTube_19.05.36_2.220.9a4/YouTube.apk"
+  },
+  {
+    "Apk name": "[BI]ReVanced Monet 19.05.36 Root",
+    "isRootVersion": true,
+    "Short description": "Magisk version with Blays icon and monet theme",
+    "Apk link": "https://github.com/B1ays/ReVanced-Versions-Catalog/releases/download/YouTube_19.05.36_2.220.9a4/BL.Monet.Root.youtube-revanced_v19.05.36.apk",
+    "Original apk link": "https://github.com/B1ays/ReVanced-Versions-Catalog/releases/download/YouTube_19.05.36_2.220.9a4/YouTube.apk"
+  },
+  {
+    "Apk name": "[MMT]ReVanced Black 19.05.36 Root",
+    "isRootVersion": true,
+    "Short description": "Magisk version with MMT icon and black theme",
+    "Apk link": "https://github.com/B1ays/ReVanced-Versions-Catalog/releases/download/YouTube_19.05.36_2.220.9a4/MMT.Black.Root.youtube-revanced_v19.05.36.apk",
+    "Original apk link": "https://github.com/B1ays/ReVanced-Versions-Catalog/releases/download/YouTube_19.05.36_2.220.9a4/YouTube.apk"
+  },
+  {
+    "Apk name": "[MMT]ReVanced Monet 19.05.36 Root",
+    "isRootVersion": true,
+    "Short description": "Magisk version with MMT icon and monet theme",
+    "Apk link": "https://github.com/B1ays/ReVanced-Versions-Catalog/releases/download/YouTube_19.05.36_2.220.9a4/MMT.Monet.Root.youtube-revanced_v19.05.36.apk",
+    "Original apk link": "https://github.com/B1ays/ReVanced-Versions-Catalog/releases/download/YouTube_19.05.36_2.220.9a4/YouTube.apk"
+  },
+  {
+    "Apk name": "[RV]ReVanced Black 19.05.36 Root",
+    "isRootVersion": true,
+    "Short description": "Magisk version with Revancify icon and black theme",
+    "Apk link": "https://github.com/B1ays/ReVanced-Versions-Catalog/releases/download/YouTube_19.05.36_2.220.9a4/RV.Black.Root.youtube-revanced_v19.05.36.apk",
+    "Original apk link": "https://github.com/B1ays/ReVanced-Versions-Catalog/releases/download/YouTube_19.05.36_2.220.9a4/YouTube.apk"
+  },
+  {
+    "Apk name": "[RV]ReVanced Monet 19.05.36 Root",
+    "isRootVersion": true,
+    "Short description": "Magisk version with Revancify icon and monet theme",
+    "Apk link": "https://github.com/B1ays/ReVanced-Versions-Catalog/releases/download/YouTube_19.05.36_2.220.9a4/RV.Monet.Root.youtube-revanced_v19.05.36.apk",
+    "Original apk link": "https://github.com/B1ays/ReVanced-Versions-Catalog/releases/download/YouTube_19.05.36_2.220.9a4/YouTube.apk"
+  },
+  {
+    "Apk name": "[OG]ReVanced Black 19.05.36 Root",
+    "isRootVersion": true,
+    "Short description": "Magisk version with original icon and black theme",
+    "Apk link": "https://github.com/B1ays/ReVanced-Versions-Catalog/releases/download/YouTube_19.05.36_2.220.9a4/OG.Black.Root.youtube-revanced_v19.05.36.apk",
+    "Original apk link": "https://github.com/B1ays/ReVanced-Versions-Catalog/releases/download/YouTube_19.05.36_2.220.9a4/YouTube.apk"
+  },
+  {
+    "Apk name": "[OG]ReVanced Monet 19.05.36 Root",
+    "isRootVersion": true,
+    "Short description": "Magisk version with original icon and monet theme",
+    "Apk link": "https://github.com/B1ays/ReVanced-Versions-Catalog/releases/download/YouTube_19.05.36_2.220.9a4/OG.Monet.Root.youtube-revanced_v19.05.36.apk",
+    "Original apk link": "https://github.com/B1ays/ReVanced-Versions-Catalog/releases/download/YouTube_19.05.36_2.220.9a4/YouTube.apk"
+  },
+  {
+    "Apk name": "[BI]ReVanced Black 19.05.36 nonRoot",
+    "isRootVersion": false,
+    "Short description": "Blays icon, black theme",
+    "Apk link": "https://github.com/B1ays/ReVanced-Versions-Catalog/releases/download/YouTube_19.05.36_2.220.9a4/BL.Black.Non-Root.youtube-revanced_v19.05.36.apk"
+  },
+  {
+    "Apk name": "[BI]ReVanced Monet 19.05.36 nonRoot",
+    "isRootVersion": false,
+    "Short description": "Blays icon, monet theme",
+    "Apk link": "https://github.com/B1ays/ReVanced-Versions-Catalog/releases/download/YouTube_19.05.36_2.220.9a4/BL.Monet.Non-Root.youtube-revanced_v19.05.36.apk"
+  },
+  {
+    "Apk name": "[MMT]ReVanced Black 19.05.36 nonRoot",
+    "isRootVersion": false,
+    "Short description": "MMT icon, black theme",
+    "Apk link": "https://github.com/B1ays/ReVanced-Versions-Catalog/releases/download/YouTube_19.05.36_2.220.9a4/MMT.Black.Non-Root.youtube-revanced_v19.05.36.apk"
+  },
+  {
+    "Apk name": "[MMT]ReVanced Monet 19.05.36 nonRoot",
+    "isRootVersion": false,
+    "Short description": "MMT icon, monet theme",
+    "Apk link": "https://github.com/B1ays/ReVanced-Versions-Catalog/releases/download/YouTube_19.05.36_2.220.9a4/MMT.Monet.Non-Root.youtube-revanced_v19.05.36.apk"
+  },
+  {
+    "Apk name": "[RV]ReVanced Black 19.05.36 nonRoot",
+    "isRootVersion": false,
+    "Short description": "Revancify icon, black theme",
+    "Apk link": "https://github.com/B1ays/ReVanced-Versions-Catalog/releases/download/YouTube_19.05.36_2.220.9a4/RV.Black.Non-Root.youtube-revanced_v19.05.36.apk"
+  },
+  {
+    "Apk name": "[RV]ReVanced Monet 19.05.36 nonRoot",
+    "isRootVersion": false,
+    "Short description": "Revancify icon, monet theme",
+    "Apk link": "https://github.com/B1ays/ReVanced-Versions-Catalog/releases/download/YouTube_19.05.36_2.220.9a4/RV.Monet.Non-Root.youtube-revanced_v19.05.36.apk"
+  },
+  {
+    "Apk name": "[OG]ReVanced Black 19.05.36 nonRoot",
+    "isRootVersion": false,
+    "Short description": "Original icon, black theme",
+    "Apk link": "https://github.com/B1ays/ReVanced-Versions-Catalog/releases/download/YouTube_19.05.36_2.220.9a4/OG.Black.Non-Root.youtube-revanced_v19.05.36.apk"
+  },
+  {
+    "Apk name": "[OG]ReVanced Monet 19.05.36 nonRoot",
+    "isRootVersion": false,
+    "Short description": "Original icon, monet theme",
+    "Apk link": "https://github.com/B1ays/ReVanced-Versions-Catalog/releases/download/YouTube_19.05.36_2.220.9a4/OG.Monet.Non-Root.youtube-revanced_v19.05.36.apk"
+  }
+]
